@@ -1,0 +1,5 @@
+git pull: Atualiza seu repositório local com as mudanças do repositório remoto.
+git add: Adiciona as alterações feitas aos arquivos para a área de stage (preparando-os para o commit).
+git commit -m "mensagem": Cria um commit com suas mudanças e uma mensagem explicando o que foi feito.
+git push: Envia seus commits locais para o repositório remoto.
+git status: Mostra o estado atual do repositório, incluindo arquivos modificados, no stage ou não rastreados. Ajuda a visualizar o que está pronto para o commit e o que precisa de atenção.
