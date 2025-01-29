@@ -1,0 +1,27 @@
+  1  poweroff
+    2  sudo
+    3  color
+    4  mcolor
+    5  sudo mcolor
+    6  sudo apt update 
+    7  sudo apt upgrade 
+    8  sudo apt upgrade--fix missing
+    9  sudo apt upgrade --fix missing
+   10  sudo apt upgrade --fix- missing
+   11  sudo apt upgrade --fix-missing
+   12  sudo apt autoremove
+   13  sudo apt autoclean
+   14  sudo rebot 
+   15  sudo reboot
+   16  curl -fsS https://dl.brave.com/install.sh | sh
+   17  sudo apt install chromium
+   18  git
+   19  sudo apt install git
+   20  git
+   21  git config --global user.name "Miguel" 
+   22  git config --global user.email 
+   23  git config --list 
+   24  exit
+   25  git clone https://github.com/Estorce00/senac-tat
+   26  exit 
+   27  history
